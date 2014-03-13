@@ -1,0 +1,3 @@
+NewFile.txt
+
+This is a new file 
